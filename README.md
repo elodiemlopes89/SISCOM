@@ -6,7 +6,7 @@ Pipeline developed under the PhD thesis "Novel Contributions to Personalized Bra
 Doctoral Program of Biomedical Engineering (Faculty of Engineering of University of Porto).
 
 References:
-%Oliveira, Ricardo Filipe Almeida. "Técnicas de subtracção de SPECT e seu coregisto com IRM: análise e optimização de um protocolo clínico e sua utilidade clínica em doentes epilépticos." (2005).
+Oliveira, Ricardo Filipe Almeida. "Técnicas de subtracção de SPECT e seu coregisto com IRM: análise e optimização de um protocolo clínico e sua utilidade clínica em doentes epilépticos." (2005).
 
 
 
